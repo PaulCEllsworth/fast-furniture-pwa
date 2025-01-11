@@ -1,8 +1,10 @@
 # Welcome to the Fast Funriture Example Code
 
-This repository is a stand-alone, full fast furniture site. It includes the latest version of the completed Fast Furniture site, [Chris Love's](https://twitter.com/chrislove) main Progressive Web App (PWA) demo.
+This repository is a stand-alone, full fast furniture site. It is related to the Udemy Course where [Chris Love's](https://twitter.com/chrislove) includes the latest version of the completed Fast Furniture site used for a really good Progressive Web App (PWA) demo.
 
 You can learn how the applicaiton was built using Progressive Web Application features in the course: [Progressive Web App From Beginner to Expert](https://www.udemy.com/progressive-web-apps-pwa-from-beginner-to-expert/?couponCode=PWACOURSE-29).
+
+This fork is designed to take that code base up through using VueJS and the Composition API, Axios, and other technologies.
 
 ## The Source Code
 
